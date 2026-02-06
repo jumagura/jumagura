@@ -4,6 +4,18 @@
 
 Currently at [Pavilion](https://pavilion.tech), shipping features for US and UK enterprise clients. Working fully remote and async across time zones since 2021.
 
+---
+
+#### What I Do
+
+- Build and ship production features end-to-end (backend + frontend + tests + deploy)
+- Maintain open-source plugins used by thousands of communities worldwide
+- Review PRs from external contributors with detailed written feedback
+- Mentor junior developers on code quality and best practices
+- Integrate third-party APIs (OpenAI, translation services, payment systems, SSO)
+
+---
+
 #### Open Source — Discourse Plugins
 
 Lead maintainer of plugins used by communities worldwide:
@@ -17,6 +29,17 @@ Lead maintainer of plugins used by communities worldwide:
 
 Also contributed to [Custom Wizard](https://github.com/paviliondev/discourse-custom-wizard) (54 stars), [Question & Answer](https://github.com/paviliondev/discourse-question-answer) (49 stars), and Discourse core.
 
+---
+
+#### GitHub Stats
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jumagura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumagura&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+---
+
 #### Stack
 
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
@@ -29,6 +52,11 @@ Also contributed to [Custom Wizard](https://github.com/paviliondev/discourse-cus
 ![Sidekiq](https://img.shields.io/badge/-Sidekiq-B1003E?style=flat&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![RSpec](https://img.shields.io/badge/-RSpec-CC0000?style=flat&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
 
 #### Contact
 
