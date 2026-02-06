@@ -31,12 +31,15 @@ Also contributed to [Custom Wizard](https://github.com/paviliondev/discourse-cus
 
 ---
 
-#### GitHub Stats
+#### Impact
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jumagura&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumagura&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+| Metric | Result |
+|--------|--------|
+| Open source installations | 10,000+ combined |
+| Email engagement pipeline | 90% open rate, 75% return-to-platform |
+| API optimization | 30+ calls reduced to 1 (95% reliability gain) |
+| Manual process automation | 80% reduction via webhooks |
+| Junior devs mentored | 10+ |
 
 ---
 
